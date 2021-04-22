@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: 
-    - *gmail : sarveshmcasoft@gmail.com
+    - **Gmail**: sarveshmcasoft@gmail.com
+    - **LinkedIn**: https://www.linkedin.com/in/sarvesh-kumar-a0b11a12/
+    - **Twitter**: https://twitter.com/singhksarvesh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
