@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -    Research Paper :  https://github.com/sarveshhome/ResearchPublications/blob/main/README.md
 -    
-                       [ALL paper in slide](https://www.slideshare.net/sarveshphd)
+                       https://www.slideshare.net/sarveshphd
 
 
 
