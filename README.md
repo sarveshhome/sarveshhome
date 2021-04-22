@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -    Research Paper :  https://github.com/sarveshhome/ResearchPublications/blob/main/README.md
+                       https://www.slideshare.net/sarveshphd
 
 
 
