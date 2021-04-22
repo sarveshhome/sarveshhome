@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -    Research Paper :  https://github.com/sarveshhome/ResearchPublications/blob/main/README.md
                    
-    - 📫 How to reach me: 
-    - **Gmail**: sarveshmcasoft@gmail.com
-    - **LinkedIn**: https://www.linkedin.com/in/sarvesh-kumar-a0b11a12/
-    - **Twitter**: https://twitter.com/singhksarvesh
+- 📫 How to reach me: 
+- **Gmail**: sarveshmcasoft@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sarvesh-kumar-a0b11a12/
+- **Twitter**: https://twitter.com/singhksarvesh
 <!---- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
