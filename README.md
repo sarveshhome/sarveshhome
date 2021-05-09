@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 
 [![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshhome)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sarveshhome)
