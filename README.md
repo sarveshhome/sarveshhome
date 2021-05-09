@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 
 
-[![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshhome)](https://github.com/sarveshhome)
+[![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshhome&show_icons=true&theme=flag-india&repo=buefy)](https://github.com/sarveshhome)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sarveshhome)
