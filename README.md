@@ -14,11 +14,14 @@ Here are some ideas to get you started:
       -    Research Paper :  https://github.com/sarveshhome/ResearchPublications/blob/main/README.md
                    
  📫 How to reach me:  
-  - **Gmail**: sarveshmcasoft@gmail.com
-  
-  - **LinkedIn**: https://www.linkedin.com/in/sarvesh-kumar-a0b11a12/
-  
-  - **Twitter**: https://twitter.com/singhksarvesh
+  - **Gmail**: sarveshmcasoft@gmail.com  
+ 
+
+## Find me around the web 🌎:
+
+- Sharing updates on <a href="https://www.linkedin.com/in/sarvesh-kumar-a0b11a12/">LinkedIn</a> 💼
+- Learning on <a href="https://twitter.com/singhksarvesh">Twitter</a> :bird:
+
 <!---- 😄 Pronouns: ...
      ⚡ Fun fact: ...
      👯 I’m looking to collaborate on ...
