@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on [.core and angular](https://github.com/sarveshhome/JWTAuthCoreAngular)
  
- 🌱 I’m currently learning ASP.NET Core,Angular
+ 🌱 I’m currently learning ASP.NET Core,React
  
  💬 Ask me about ...
       -    Research Paper :  https://github.com/sarveshhome/ResearchPublications/blob/main/README.md
