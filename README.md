@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 
 
-[![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshhome&show_icons=true&theme=flag-india&repo=buefy)](https://github.com/sarveshhome)
 
 ![Sarvesh's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sarveshhome&layout=compact&theme=flag-india)
 
