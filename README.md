@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sarveshhome&theme=flag-india)](https://github.com/sarveshhome/sarveshhom)
 
+[![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshhome)](https://github.com/sarveshhome)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sarveshhome&theme=flag-india)
