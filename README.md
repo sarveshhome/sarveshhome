@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
- 🔭 I’m currently working on [.Core, Angular](https://github.com/sarveshhome/JWTAuthCoreAngular)
+ 🔭 I’m currently working on [.Core,Reactjs,Angular](https://github.com/sarveshhome/JWTAuthCoreAngular)
  
  🌱 I’m currently learning ASP.NET Core, React
  
