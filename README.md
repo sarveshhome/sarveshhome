@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
- 🔭 I’m currently working on [.Core, Reactjs, Angular, NestJS ](https://github.com/sarveshhome/JWTAuthCoreAngular)
+ 🔭 I’m currently working on [.Core, Reactjs, GraphQL, Kafka, NestJS, Angular ](https://github.com/sarveshhome/JWTAuthCoreAngular)
  
  🌱 I’m currently learning system architecture
  
