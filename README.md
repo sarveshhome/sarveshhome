@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 
 
-![Sarvesh's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sarveshhome&layout=compact&theme=flag-india)
+![Sarvesh's Language Stats](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sarveshhome&layout=compact&theme=radical)
+
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarveshhome&theme=flag-india)](https://github.com/sarveshhome/sarveshhome)
 
 
-![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshhome&show_icons=true&theme=radical)
+![Sarvesh's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=sarveshhome&show_icons=true&theme=radical)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sarveshhome&theme=flag-india)
