@@ -1,42 +1,35 @@
-### Hi, I'm Sarvesh 👋
+### Hi, I'm Sarvesh 👋  
 
-<!--
-**sarveshhome/sarveshhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on  
+[.NET Core, React.js, GraphQL, Kafka, NestJS, Angular](https://github.com/sarveshhome/JWTAuthCoreAngular)
 
-Here are some ideas to get you started:
--->
+🌱 I’m currently learning **System Architecture**
 
- 🔭 I’m currently working on [.Core, Reactjs, GraphQL, Kafka, NestJS, Angular ](https://github.com/sarveshhome/JWTAuthCoreAngular)
- 
- 🌱 I’m currently learning system architecture
- 
- 💬 Ask me about ...
-      -    Research Paper :  https://github.com/sarveshhome/ResearchPublications/blob/main/README.md
-                   
- 📫 How to reach me:  
-  - **Gmail**: sarveshmcasoft@gmail.com  
- 
+💬 Ask me about  
+- Research Paper:  
+  https://github.com/sarveshhome/ResearchPublications/blob/main/README.md  
 
-## Find me around the web 🌎:
+📫 How to reach me  
+- **Gmail**: sarveshmcasoft@gmail.com  
 
-- Sharing updates on <a href="https://www.linkedin.com/in/sarvesh-kumar-a0b11a12/">LinkedIn</a> 💼
-- Learning on <a href="https://twitter.com/singhksarvesh">Twitter</a> :bird:
+---
 
-<!---- 😄 Pronouns: ...
-     ⚡ Fun fact: ...
-     👯 I’m looking to collaborate on ...
-     🤔 I’m looking for help with ...-->
+## 🌎 Find me around the web:
 
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/imsarveshkumar/
 
+- 🐦 Twitter (X):  
+  https://twitter.com/singhksarvesh  
 
+---
 
-![Sarvesh's Language Stats](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sarveshhome&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshhome&layout=compact&theme=radical)
 
-[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarveshhome&theme=flag-india)](https://github.com/sarveshhome/sarveshhome)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarveshhome&theme=flag-india)](https://github.com/sarveshhome)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarveshhome&show_icons=true&theme=radical)
 
-![Sarvesh's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=sarveshhome&show_icons=true&theme=radical)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sarveshhome&theme=flag-india)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sarveshhome&theme=flag-india)
